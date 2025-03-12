@@ -1,0 +1,20 @@
+/* .landing{
+  min-height: 100vh;
+  background-image: url("/src/assets/pictures/landing.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+/* .landing::after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #032e15 ;
+  opacity: 100%;
+} */

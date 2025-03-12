@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+@font-face{
+  font-family: "WorkSansThin";
+  src: local("WorkSansThin"), url("/src/assets/fonts/WorkSans-Thin.ttf")
+}
+@font-face{
+  font-family: "WorkSansRegular";
+  src: local("WorkSansRegular"), url("/src/assets/fonts/WorkSans-Regular.ttf")
+}
+@font-face{
+  font-family: "WorkSansMedium";
+  src: local("WorkSansMedium"), url("/src/assets/fonts/WorkSans-Medium.ttf")
+}
+@font-face{
+  font-family: "WorkSansSemiBold";
+  src: local("WorkSansSemiBold"), url("/src/assets/fonts/WorkSans-SemiBold.ttf")
+}
+@font-face{
+  font-family: "WorkSansBold";
+  src: local("WorkSansBold"), url("/src/assets/fonts/WorkSans-Bold.ttf")
+}
+@font-face{
+  font-family: "WorkSansExtraBold";
+  src: local("WorkSansExtraBold"), url("/src/assets/fonts/WorkSans-ExtraBold.ttf")
+}
+@font-face{
+  font-family: "WorkSansBlack";
+  src: local("WorkSansBlack"), url("/src/assets/fonts/WorkSans-Black.ttf");
+}
+/* poppins font */
+@font-face{
+  font-family: "PoppinsThin";
+  src: local("PoppinsThin"), url("/src/assets/fonts/Poppins-Thin.ttf")
+}
+@font-face{
+  font-family: "PoppinsRegular";
+  src: local("PoppinsRegular"), url("/src/assets/fonts/Poppins-Regular.ttf")
+}
+@font-face{
+  font-family: "PoppinsMedium";
+  src: local("PoppinsMedium"), url("/src/assets/fonts/Poppins-Medium.ttf")
+}
+@font-face{
+  font-family: "PoppinsSemiBold";
+  src: local("PoppinsSemiBold"), url("/src/assets/fonts/Poppins-SemiBold.ttf")
+}
+@font-face{
+  font-family: "PoppinsBold";
+  src: local("PoppinsBold"), url("/src/assets/fonts/Poppins-Bold.ttf")
+}
+@font-face{
+  font-family: "PoppinsExtraBold";
+  src: local("PoppinsExtraBold"), url("/src/assets/fonts/Poppins-ExtraBold.ttf")
+}
+@font-face{
+  font-family: "PoppinsBlack";
+  src: local("PoppinsBlack"), url("/src/assets/fonts/Poppins-Black.ttf");
+}
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  box-sizing: border-box;
+}
+@theme{
+  /* --color-mainColor: #42f55d; */
+  --color-mainColor: #99FE0E;
+  --font-WorkSansThin: "WorkSansThin";
+  --font-WorkSansRegular: "WorkSansRegular";
+  --font-WorkSansMedium: "WorkSansMedium";
+  --font-WorkSansSemiBold: "WorkSansSemiBold";
+  --font-WorkSansBold: "WorkSansBold";
+  --font-WorkSansExtraBold: "WorkSansExtraBold";
+  --font-WorkSansBlack: "WorkSansBlack";
+  /*  Poppins Fonts*/
+  --font-PoppinsThin: "PoppinsThin";
+  --font-PoppinsRegular: "PoppinsRegular";
+  --font-PoppinsMedium: "PoppinsMedium";
+  --font-PoppinsSemiBold: "PoppinsSemiBold";
+  --font-PoppinsBold: "PoppinsBold";
+  --font-PoppinsExtraBold: "PoppinsExtraBold";
+  --font-PoppinsBlack: "PoppinsBlack";
+}
+html{
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "WorkSansRegular";
+}
+h1,h2,h3,h4,h5,h6,p {
+  margin: 0px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+/* a {
+  color: black;
+  text-decoration: inherit;
+}
+a:hover {
+  color: inherit;
+} */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track{
+  background-color:   #292524   ;
+  /* box-shadow: 0px 0px 2px 0px inset; */
+}
+::-webkit-scrollbar-thumb{
+  background-color:    #79716b   ;
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px 0px inset;
+}
+::selection{
+  background-color: #99FE0E;
+  color: white;
+}
+.active{
+  color: #99FE0E;
+}
+/* :root {
+  --mainColor: #6CC247;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
