@@ -579,6 +579,61 @@ export const frishVegetablesData = [
       },
     ],
   },
+  {
+    id: 52,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850746/greenPhoenix/fruit_15635648_bvqkd9.png",
+    product_name: "tomatos",
+    seasons: [
+      {
+        month: "jan",
+        value: "frish",
+      },
+      {
+        month: "fab",
+        value: "frish",
+      },
+      {
+        month: "mar",
+        value: "frish",
+      },
+      {
+        month: "apr",
+        value: "frish",
+      },
+      {
+        month: "may",
+        value: "frish",
+      },
+      {
+        month: "jun",
+        value: "frish",
+      },
+      {
+        month: "jul",
+        value: "frish",
+      },
+      {
+        month: "aug",
+        value: "frish",
+      },
+      {
+        month: "sep",
+        value: "frish",
+      },
+      {
+        month: "oct",
+        value: "frish",
+      },
+      {
+        month: "nov",
+        value: "frish",
+      },
+      {
+        month: "dec",
+        value: "frish",
+      },
+    ],
+  },
 ];
 
 export const frishFruitsData = [
@@ -924,13 +979,6 @@ export const frishFruitsData = [
     id: 16,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741768204/greenPhoenix/pomegranate_6866556_jokgg1.png",
     product_name: "pomegranate",
-    description: `The Egyptian pomegranate is considered one of the best types 
-of pomegranates in the world, thanks to its high quality, 
-attractive color, and unique taste. This fruit is a symbol of wealth 
-and beauty in Egyptian culture, holding a special place in global markets.
- The number of pomegranates in each package ranges from 
-6 to 14, depending on the size of the fruits. The standard weights vary 
-between 400 grams to 800 grams per fruit.`,
     seasons: [
       {
         month: "jan",
@@ -982,64 +1030,1941 @@ between 400 grams to 800 grams per fruit.`,
       },
     ],
   },
+  {
+    id: 51,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850747/greenPhoenix/fruit_13534723_kddkdp.png",
+    product_name: "grapes",
+    seasons: [
+      {
+        month: "jan",
+        value: "frish",
+      },
+      {
+        month: "fab",
+        value: "frish",
+      },
+      {
+        month: "mar",
+        value: "frish",
+      },
+      {
+        month: "apr",
+        value: "frish",
+      },
+      {
+        month: "may",
+        value: "none",
+      },
+      {
+        month: "jun",
+        value: "none",
+      },
+      {
+        month: "jul",
+        value: "none",
+      },
+      {
+        month: "aug",
+        value: "none",
+      },
+      {
+        month: "sep",
+        value: "none",
+      },
+      {
+        month: "oct",
+        value: "none",
+      },
+      {
+        month: "nov",
+        value: "frish",
+      },
+      {
+        month: "dec",
+        value: "frish",
+      },
+    ],
+  },
 ];
 
-// {
-//   id: 9,
-//   url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1727768509/alshimaa/pngwing.com_4_u5zoue.png",
-//   product_name: " Frozen French fries",
-//   description:
-//     "Produced from carefully selected potatoes, ensuring a distinctive taste and texture. They are also easy to prepare, as they can be fried or baked directly from the freezer without the need to thaw. They can be stored for long periods in the freezer, making them convenient for use at any time.",
-//   seasons: [
-//     {
-//       month: "jan",
-//       value: "stored",
-//     },
-//     {
-//       month: "fab",
-//       value: "stored",
-//     },
-//     {
-//       month: "mar",
-//       value: "stored",
-//     },
-//     {
-//       month: "apr",
-//       value: "stored",
-//     },
-//     {
-//       month: "may",
-//       value: "stored",
-//     },
-//     {
-//       month: "jun",
-//       value: "stored",
-//     },
-//     {
-//       month: "jul",
-//       value: "stored",
-//     },
-//     {
-//       month: "aug",
-//       value: "stored",
-//     },
-//     {
-//       month: "sep",
-//       value: "stored",
-//     },
-//     {
-//       month: "oct",
-//       value: "stored",
-//     },
-//     {
-//       month: "nov",
-//       value: "stored",
-//     },
-//     {
-//       month: "dec",
-//       value: "stored",
-//     },
-//   ],
-// }
+export const frozenVegetables = [
+  {
+    id: 17,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848782/greenPhoenix/pngwing.com_11_ntnnlz.png",
+    product_name: "french fries",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 18,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848768/greenPhoenix/pngwing.com_12_plhsuq.png",
+    product_name: "potatos",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 19,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848969/greenPhoenix/bae24a53-36d0-496c-9ed9-fb49c2a2f174_vcoknn.jpg",
+    product_name: "mixed vegetables",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 20,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848776/greenPhoenix/pngwing.com_13_rko2q6.png",
+    product_name: "green beans",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 21,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848672/greenPhoenix/pngwing.com_14_sf9rod.png",
+    product_name: "broccoli",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 22,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741849406/greenPhoenix/pngwing.com_29_n1onu2.png",
+    product_name: "taro cubes",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 23,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848657/greenPhoenix/pngwing.com_16_hmj1ik.png",
+    product_name: "grape leaves",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 24,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848647/greenPhoenix/falafeldough_cas9a4.jpg",
+    product_name: "falafel dough",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 25,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848655/greenPhoenix/pngwing.com_17_cuaono.png",
+    product_name: "half fried falafel",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 26,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848645/greenPhoenix/beanscut_zmgiyk.jpg",
+    product_name: "cut beans",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 27,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848644/greenPhoenix/pngwing.com_18_qkp5jv.png",
+    product_name: "whole beans",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 28,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848652/greenPhoenix/%D9%83%D8%B2%D8%A8%D8%B1%D8%A9-3000x3000_bdnxq6.jpg",
+    product_name: "kasbra",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 29,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848645/greenPhoenix/23067_b8g5ij.jpg",
+    product_name: "baba ghanouj",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 30,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848636/greenPhoenix/pngwing.com_19_uqavnz.png",
+    product_name: "garlic",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 31,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848643/greenPhoenix/799_ipray3.jpg",
+    product_name: "vegetables soup",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 32,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848638/greenPhoenix/pngwing.com_20_j2t9ie.png",
+    product_name: "okra extra",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 33,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848638/greenPhoenix/pngwing.com_20_j2t9ie.png",
+    product_name: "okra zero",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 34,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848638/greenPhoenix/pngwing.com_20_j2t9ie.png",
+    product_name: "1 okra",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 35,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848638/greenPhoenix/pngwing.com_20_j2t9ie.png",
+    product_name: "2 okra",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 36,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848638/greenPhoenix/pngwing.com_20_j2t9ie.png",
+    product_name: "okra weka",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 37,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848630/greenPhoenix/softmolokhiya_zvbsoz.jpg",
+    product_name: "soft molokhiya",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 38,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848628/greenPhoenix/Molokhia_2a_oysn3l.jpg",
+    product_name: "molokhiya paper",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 39,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848669/greenPhoenix/pngwing.com_21_aqrsuz.png",
+    product_name: "spinach",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 40,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848669/greenPhoenix/pngwing.com_21_aqrsuz.png",
+    product_name: "leaf spinach",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 41,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848669/greenPhoenix/pngwing.com_21_aqrsuz.png",
+    product_name: "spinach cubes",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 42,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848665/greenPhoenix/pngwing.com_22_dl8ljy.png",
+    product_name: "plain peas",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 43,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848631/greenPhoenix/pngwing.com_23_gmokjf.png",
+    product_name: "basket with carrots",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 44,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848671/greenPhoenix/pngwing.com_24_hiizkv.png",
+    product_name: "cauliflower",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 45,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848620/greenPhoenix/arrichoke_v0khcl.jpg",
+    product_name: "arrichoke",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+];
+export const frozenFruits = [
+  {
+    id: 46,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741849970/greenPhoenix/pngwing.com_30_zyavrd.png",
+    product_name: "pomegranate",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 47,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848628/greenPhoenix/pngwing.com_25_mhdt6x.png",
+    product_name: "strawberry",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 48,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850061/greenPhoenix/pngwing.com_31_zz1x6w.png",
+    product_name: "mango",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 49,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848619/greenPhoenix/pngwing.com_26_rbyoqx.png",
+    product_name: "guava",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+  {
+    id: 50,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848625/greenPhoenix/pngwing.com_27_nao04e.png",
+    product_name: "sugar corn",
+    seasons: [
+      {
+        month: "jan",
+        value: "stored",
+      },
+      {
+        month: "fab",
+        value: "stored",
+      },
+      {
+        month: "mar",
+        value: "stored",
+      },
+      {
+        month: "apr",
+        value: "stored",
+      },
+      {
+        month: "may",
+        value: "stored",
+      },
+      {
+        month: "jun",
+        value: "stored",
+      },
+      {
+        month: "jul",
+        value: "stored",
+      },
+      {
+        month: "aug",
+        value: "stored",
+      },
+      {
+        month: "sep",
+        value: "stored",
+      },
+      {
+        month: "oct",
+        value: "stored",
+      },
+      {
+        month: "nov",
+        value: "stored",
+      },
+      {
+        month: "dec",
+        value: "stored",
+      },
+    ],
+  },
+];
 
-export const allProducts = [...frishVegetablesData, ...frishFruitsData];
+export const allProducts = [
+  ...frishVegetablesData,
+  ...frishFruitsData,
+  ...frozenVegetables,
+  ...frozenFruits,
+];
