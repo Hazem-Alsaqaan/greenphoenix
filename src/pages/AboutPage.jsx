@@ -22,7 +22,7 @@ function AboutPage() {
           content="إنتاج المحاصيل الزراعية, تصدير الفواكه, الزراعة العضوية, محاصيل طازجة, جودة الفواكه, مزارع محلية, شحن دولي, منتجات زراعية, فواكه طازجة, خضروات طازجة, استيراد وتصدير, الشيماء للمنتجات الزارعية, Agriculture products, fruit export, organic farming, fresh crops, fruit quality, local farms, international shipping, agricultural products, fresh fruits and vegetables, import and export"
         />
       </Helmet> */}
-      <div className="min-h-screen px-24 py-56 bg-lime-100 max-md:px-6 relative">
+      <div className="min-h-screen px-24 py-44 bg-lime-100 max-md:px-6 relative">
         <div className="mb-12 flex items-center justify-center  cursor-context-menu select-none ">
           <h1
             className={`px-20 py-1 rounded-lg text-mainColor  bg-gradient-to-r from-0% from-lime-200 via-50% via-green-950 to-100% to-lime-200 text-nowrap text-6xl font-WorkSansBlack max-md:text-4xl max-sm:text-3xl max-sm:px-10 relative`}

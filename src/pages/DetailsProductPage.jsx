@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { allProducts } from "../../staticData";
 import ProductsSeassonsTable from "../components/ProductsSeassonsTable";
+import NotFoundPage from "./NotFoundPage";
 
 function DetailsProductPage() {
   const { id } = useParams();
@@ -29,7 +30,7 @@ function DetailsProductPage() {
     );
   }
   return (
-    <div className="min-h-screen px-24 py-56 bg-white max-md:px-6 relative">
+    <div className="min-h-screen px-24 py-44 bg-white max-md:px-6 relative">
       {/* <h1 className="flex justify-center font-PoppinsBlack text-xl py-4">
         Details
       </h1> */}

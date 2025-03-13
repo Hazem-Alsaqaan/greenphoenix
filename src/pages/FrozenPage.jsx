@@ -10,7 +10,7 @@ function FrozenPage() {
     });
   }, []);
   return (
-    <div className="min-h-screen px-24 py-56 bg-white max-md:px-6 relative">
+    <div className="min-h-screen px-24 py-44 bg-white max-md:px-6 relative">
       <FrozenNestedNavigat />
       <Outlet />
     </div>
