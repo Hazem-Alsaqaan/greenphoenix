@@ -28,16 +28,21 @@ function App() {
         <Route path="/services" element={<ServicesPage />} />
         <Route path="/contact-us" element={<ContactUs />} />
         <Route path="/products" element={<ProductsPage />} />
-        <Route path="/products/frozen" element={<FrozenPage />}>
-          <Route index element={<FrozenFruits />} />
-          <Route path="frozen-fruits" element={<FrozenFruits />} />
-          <Route path="frozen-vegetables" element={<FrozenVegetables />} />
-        </Route>
-        <Route path="/products/frish" element={<FrishPage />}>
-          <Route index element={<FrishFruits />} />
-          <Route path="frish-fruits" element={<FrishFruits />} />
-          <Route path="frish-vegetables" element={<FrishVegetables />} />
-        </Route>
+        <Route path="/products/frozen" element={<FrozenPage />} />
+        <Route
+          path="/products/frozen/frozen-fruits"
+          element={<FrozenFruits />}
+        />
+        <Route
+          path="/products/frozen/frozen-vegetables"
+          element={<FrozenVegetables />}
+        />
+        <Route path="/products/frish" element={<FrishPage />} />
+        <Route path="/products/frish/frish-fruits" element={<FrishFruits />} />
+        <Route
+          path="/products/frish/frish-vegetables"
+          element={<FrishVegetables />}
+        />
         <Route path="/products/:id" element={<DetailsProductPage />} />
       </Routes>
       <Footer />

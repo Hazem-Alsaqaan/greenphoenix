@@ -7,18 +7,26 @@ function FrishNestedNavigat() {
       <ul className="flex items-center justify-center gap-4 max-sm:flex-col">
         <li>
           <NavLink
-            className={`block w-64 py-3 text-center bg-green-900 text-white text-xl font-WorkSansSemiBold rounded-md capitalize text-nowrap hover:bg-green-800`}
-            to="frish-fruits"
+            className={`w-64 h-72 py-3 flex flex-col items-center justify-between text-center bg-green-900 text-white text-xl font-WorkSansSemiBold rounded-md capitalize text-nowrap hover:bg-green-800`}
+            to="/products/frish/frish-fruits"
           >
-            Frish fruits
+            <img
+              src={`https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741762140/greenPhoenix/pngwing.com_10_hvic2s.png`}
+              alt=""
+            />
+            <p>Frish fruits</p>
           </NavLink>
         </li>
         <li>
           <NavLink
-            className={`block w-64 py-3 text-center bg-green-900 text-white text-xl font-WorkSansSemiBold rounded-md capitalize text-nowrap hover:bg-green-800`}
-            to="frish-vegetables"
+            className={`w-64 h-72 py-3 flex flex-col items-center justify-between text-center bg-green-900 text-white text-xl font-WorkSansSemiBold rounded-md capitalize text-nowrap hover:bg-green-800`}
+            to="/products/frish/frish-vegetables"
           >
-            Frish vegetables
+            <img
+              src={`https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741762140/greenPhoenix/pngwing.com_9_ttcu5b.png`}
+              alt=""
+            />
+            <p>Frish vegetables</p>
           </NavLink>
         </li>
       </ul>

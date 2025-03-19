@@ -125,7 +125,7 @@ export const sliderImages = [
 export const frishVegetablesData = [
   {
     id: 1,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769577/greenPhoenix/potato_1652127_jqzixj.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848768/greenPhoenix/pngwing.com_12_plhsuq.png",
     product_name: "potatoes",
     description:
       "The Egyptian potatoes are well-known of its good quality whether for the potatoes grown in clay or sandy soil , also well-known of its ability for preservation , the level of solidity and sugar for a period that exceeds twenty days from the day of harvest.",
@@ -182,7 +182,7 @@ export const frishVegetablesData = [
   },
   {
     id: 2,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769576/greenPhoenix/redOnion_dbybkq.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384278/greenPhoenix/pngwing.com_36_bh4zfw.png",
     product_name: "Red Onion",
     description:
       "The Red onion is a cured bulb onion with a deep purple, papery outer skin and slightly red tinted flesh. Red onion’s flavor ranges from sweet to pungent depending on its age and variety. This onion’s layers are thinner and crunchier compared to other onion varieties and therefore most commonly used for raw preparations.",
@@ -239,7 +239,7 @@ export const frishVegetablesData = [
   },
   {
     id: 3,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769574/greenPhoenix/goldOnion_subylt.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384286/greenPhoenix/pngwing.com_37_anydcl.png",
     product_name: "Golden Onions",
     description:
       "Onions are a good source of vitamin C and help boost immunity with their many health properties. They contain chromium, which assists in regulating blood sugar and for centuries, onions have been used to reduce inflammation and heal infections",
@@ -296,7 +296,7 @@ export const frishVegetablesData = [
   },
   {
     id: 4,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769563/greenPhoenix/garlic_jznm6k.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848636/greenPhoenix/pngwing.com_19_uqavnz.png",
     product_name: "Garlic",
     description:
       "Egypt occupies the third place in the production and export of garlic worldwide and one of the most famous cultivars in Egypt is white garlic and red (Chinese) and is exported fresh and dried. Garlic Improves Cholesterol Levels, Which May Lower the Risk of Heart Disease , It consists of several lobes , It has thick striped leaves that have a distinctive strong smell and Have strong taste .",
@@ -353,7 +353,7 @@ export const frishVegetablesData = [
   },
   {
     id: 5,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769576/greenPhoenix/sweetPotato_ftmku2.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384278/greenPhoenix/pngwing.com_38_vj4an2.png",
     product_name: "sweet patato",
     description:
       "Sweet potatoes are known for their sweet taste and creamy texture. They are rich in nutrients, including vitamins A and C, and dietary fiber. Additionally, they contain antioxidants, which help reduce the risk of chronic diseases. Versatility: Sweet potatoes can be cooked, baked, or used in desserts, making them suitable for a wide variety of dishes.",
@@ -410,7 +410,7 @@ export const frishVegetablesData = [
   },
   {
     id: 6,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769562/greenPhoenix/carrot_1652131_vzpx6r.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384276/greenPhoenix/pngwing.com_39_owcxez.png",
     product_name: "carrot",
     description:
       "The sweet flavor of Egyptian carrots makes them a favorite in global markets. They are distinguished by their bright orange color, which enhances their appeal. Egyptian carrots have excellent storage capacity, making them ideal for export. They are rich in Vitamin A, fiber, and beta-carotene, making them a healthy and nutritious food.",
@@ -467,7 +467,7 @@ export const frishVegetablesData = [
   },
   {
     id: 7,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769562/greenPhoenix/cabbage_7217775_rt9lko.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384278/greenPhoenix/pngwing.com_40_nai5fj.png",
     product_name: " Iceberg lettuce",
     description:
       " Lettuce iceberg is one of the main constituents in salads and is known for its crunchy texture. It has comparatively less nutrients than the other greens that you may find in salads",
@@ -524,7 +524,7 @@ export const frishVegetablesData = [
   },
   {
     id: 8,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741769785/greenPhoenix/fruit_15677647_qnpqv1.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741848803/greenPhoenix/pngwing.com_28_oisv8m.png",
     product_name: "Lemon",
     description:
       "Fruit medium-small size, elliptical to oblong commonly with short neck or low collar at base, seeds content variable but usually few to none, Color yellow at maturity.",
@@ -581,7 +581,7 @@ export const frishVegetablesData = [
   },
   {
     id: 52,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850746/greenPhoenix/fruit_15635648_bvqkd9.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850456/greenPhoenix/pngwing.com_32_hhha5z.png",
     product_name: "tomatos",
     seasons: [
       {
@@ -639,7 +639,7 @@ export const frishVegetablesData = [
 export const frishFruitsData = [
   {
     id: 10,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741767751/greenPhoenix/navol_kryc7e.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384539/greenPhoenix/navoleOrange_cokspw.png",
     product_name: "Navel",
     description: ` Lower acid content than most orange varieties , easily peeled , excellent flavor, earliest maturing. Citrus fruits are full of great health benefits.`,
     seasons: [
@@ -695,7 +695,7 @@ export const frishFruitsData = [
   },
   {
     id: 11,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741767751/greenPhoenix/balady_jd2c20.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384735/greenPhoenix/baladiOrang_fxbwy6.png",
     product_name: "Baladi",
     description: ` Juice orange, similar to Valencia, Lower sugar, Medium vigor. Citrus fruits are full of great health benefits.`,
     seasons: [
@@ -751,7 +751,7 @@ export const frishFruitsData = [
   },
   {
     id: 12,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741767751/greenPhoenix/sweety_wkm7ex.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384877/greenPhoenix/sweetyOrange_j4i29t.png",
     product_name: "Sweety",
     description: `High sugars , very good mid-season orange.Medium vigor, good produce,full of great health benefits.`,
     seasons: [
@@ -807,7 +807,7 @@ export const frishFruitsData = [
   },
   {
     id: 13,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741767751/greenPhoenix/valencia_pfg3ws.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742384990/greenPhoenix/valenciaOrange_woxlw9.png",
     product_name: "Valencia",
     description: ` Excellent for eating & juice , Very juicy and sweety last orange variety for Egyptian orange season.Citrus fruits are full of great health benefits.`,
     seasons: [
@@ -864,7 +864,7 @@ export const frishFruitsData = [
 
   {
     id: 14,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741768204/greenPhoenix/watermelon_k2ghfi.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742385150/greenPhoenix/waterMelooone_f01auv.png",
     product_name: "Watermelon",
     description: `Egyptian watermelon is characterized by its excellent quality and delicious flavor, making it highly sought after in international markets. It also has a large size, with the weight of Egyptian watermelons ranging from 5 to 15 kilograms, making them ideal for export. Additionally, it contains a high water content, making it refreshing and hydrating, which appeals to consumers`,
     seasons: [
@@ -921,7 +921,7 @@ export const frishFruitsData = [
 
   {
     id: 15,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741768204/greenPhoenix/mango_zsp2zl.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850061/greenPhoenix/pngwing.com_31_zz1x6w.png",
     product_name: "Mango",
     description: ` Delicious Taste: Known for its sweet and aromatic flavor. Nutrient-Rich: Contains vitamins such as C and A, along with antioxidants.Promotes Digestive Health: High in fiber, aiding in digestion.`,
     seasons: [
@@ -977,7 +977,7 @@ export const frishFruitsData = [
   },
   {
     id: 16,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741768204/greenPhoenix/pomegranate_6866556_jokgg1.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741849970/greenPhoenix/pngwing.com_30_zyavrd.png",
     product_name: "pomegranate",
     seasons: [
       {
@@ -1032,7 +1032,7 @@ export const frishFruitsData = [
   },
   {
     id: 51,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850747/greenPhoenix/fruit_13534723_kddkdp.png",
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741850454/greenPhoenix/pngwing.com_33_zdbvhf.png",
     product_name: "grapes",
     seasons: [
       {
@@ -2961,7 +2961,118 @@ export const frozenFruits = [
     ],
   },
 ];
-
+export const countriesData = [
+  {
+    title: "Russia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397376/alshimaa/russia_ned2x2.png",
+  },
+  {
+    title: "Bosnia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/BosniaAndHerzegovina_vyhf88.png",
+  },
+  {
+    title: "Croatia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/Croatia_uj4ptx.png",
+  },
+  {
+    title: "Romania",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397376/alshimaa/Romania_zm1rwq.png",
+  },
+  {
+    title: "Greece",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/Greece_pdldo0.png",
+  },
+  {
+    title: "Italy",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/Italy_blp2uw.png",
+  },
+  {
+    title: "Germany",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/Germany_n0i1sk.png",
+  },
+  {
+    title: "Lebanon",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/Lebanon_j0s8xh.png",
+  },
+  {
+    title: "Saudi Arabia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397377/alshimaa/SaudiArabia_jnoho5.png",
+  },
+  {
+    title: "united arab emirates",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728506310/united_arab_emirates_xvyaxs.png",
+  },
+  {
+    title: "Moldova",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397374/alshimaa/Moldova_kicem7.png",
+  },
+  {
+    title: "Montenegro",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397376/alshimaa/Montenegro_a1but4.png",
+  },
+  {
+    title: "France",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728397372/alshimaa/France_wiuofq.png",
+  },
+  {
+    title: "Poland",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416944/alshimaa/poland_fat1d5.png",
+  },
+  {
+    title: "Serbia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416944/alshimaa/serbia_eh9cud.png",
+  },
+  {
+    title: "Slovenia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416943/alshimaa/solvenia_ptqcsh.png",
+  },
+  {
+    title: "Scotland",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416944/alshimaa/Scotland_p39jhm.png",
+  },
+  {
+    title: "Holland",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416944/alshimaa/Holland_v3un7h.png",
+  },
+  {
+    title: "Malaysia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416944/alshimaa/Malaysia_wzekq5.png",
+  },
+  {
+    title: "Denmark",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416943/alshimaa/Denmark_ydefij.png",
+  },
+  {
+    title: "Lithuania",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416944/alshimaa/Lithuania_kg939t.png",
+  },
+  {
+    title: "Latvia",
+    photo:
+      "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1728416943/alshimaa/Latvia_zipowm.png",
+  },
+];
 export const allProducts = [
   ...frishVegetablesData,
   ...frishFruitsData,

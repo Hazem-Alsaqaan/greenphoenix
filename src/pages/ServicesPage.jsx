@@ -14,7 +14,7 @@ function ServicesPage() {
   }, []);
   return (
     <>
-      <div className="min-h-screen px-24 py-44 bg-lime-100  max-md:px-6 relative">
+      <div className="min-h-screen px-24 py-44 bg-white  max-md:px-6 relative">
         <Circle XPosition={"left-32"} width={"32"} height={"32"} />
         <Circle XPosition={"right-32"} width={"32"} height={"32"} />
         <SectionTitle title={"Services"} />

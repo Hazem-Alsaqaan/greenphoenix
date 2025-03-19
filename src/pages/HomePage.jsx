@@ -3,6 +3,7 @@ import Landing from "../components/landing/Landing";
 import AboutPage from "./AboutPage";
 import ServicesPage from "./ServicesPage";
 import ProductsPage from "./ProductsPage";
+import WorldSection from "../components/WorldSection";
 
 function HomePage() {
   return (
@@ -13,6 +14,7 @@ function HomePage() {
       <AboutPage />
       <ServicesPage />
       <ProductsPage />
+      <WorldSection />
     </>
   );
 }
