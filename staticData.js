@@ -1,15 +1,15 @@
 export const servicesData = [
   {
     id: "1",
-    title: "Land Management",
+    title: "The Foundation of Success: Sustainable Land Management",
     description:
-      "Sustainable land management is the cornerstone of our success. We meticulously care for our fruit and vegetable cultivation land, focusing on maintaining soil health, using water efficiently, and minimizing environmental impact. Through our commitment to responsible land stewardship, we ensure not only the highest quality of products but also contribute to creating a greener, more products but also contribute to creating a greener, more sustainable planet while protecting the environment from pollution.",
+      "Sustainable land management is the cornerstone of our success. We meticulously care for our fruit and vegetable cultivation land, focusing on maintaining soil health, using water efficiently, and minimizing environmental impact. Through our commitment to responsible land stewardship, we ensure not only the highest quality of products but also contribute to creating a greener, more sustainable planet while protecting the environment from pollution.",
     icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741505608/greenPhoenix/land_management_tqzspd.jpg",
     audio: "https://vocaroo.com/embed/1cch0VYVJcfE?autoplay=0",
   },
   {
     id: "2",
-    title: "Production",
+    title: "Excellence in Production: From Seed to Harvest",
     description:
       "We demonstrate our dedication to excellence through every piece of fruit we produce. We utilize advanced agricultural practices and the latest technologies to ensure that each crop offers maximum flavor, nutritional value, and visual appeal. From carefully selecting seedlings to precise harvesting techniques, our focus on production quality remains unwavering, making every piece of our fruits and vegetables a testament to pride and professionalism.",
     icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741505599/greenPhoenix/production_xzpzxg.jpg",
@@ -17,18 +17,26 @@ export const servicesData = [
   },
   {
     id: "3",
-    title: "Packaging",
+    title: "The Art of Packaging: More Than Just Protection",
     description:
-      "The art of packaging is a vital element that goes beyond mere physical protection of products. It is a strategic investment that enhances the consumer experience by providing attractive design and accurate information while contributing to environmental sustainability through modern innovations. The impact of packaging is evident in a company's ability to stand out in a crowded market evident in a company's ability to stand out in a crowded market where packaging becomes the face that expresses the product's identity and value. Therefore, good packaging is fundamental to the success of products in the market and increases customer satisfaction.",
+      "Packaging is more than just a means to protect products; it is a strategic tool that enhances the consumer experience through attractive design and accurate information, while also promoting environmental sustainability via modern innovations. Effective packaging helps a company stand out in a competitive market by serving as the face of the product, conveying its identity and value. As a result, high-quality packaging is essential for market success and plays a key role in boosting customer satisfaction.",
     icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741506553/greenPhoenix/2148923142_fomemm.jpg",
     audio: "https://vocaroo.com/embed/1fzuuaPC3XA2?autoplay=0",
   },
   {
     id: "4",
-    title: "Shipping",
+    title: "Efficient Shipping: From Farm to Table",
     description:
-      "From our farms to your table, we ensure that our shipping process is meticulously organized to meet the highest standards of efficiency. arrive on time and in optimal condition. Through We recognize the importance of time and reliability in global food distribution, and our advanced logistical solutions ensure that your products our extensive network, we reach every corner of the globe to deliver the finest produce from our farms with utmost care.",
+      "From our farms to your table, we ensure that our shipping process is meticulously organized to meet the highest standards of efficiency. We recognize the importance of time and reliability in global food distribution, and our advanced logistical solutions ensure that your products arrive on time and in optimal condition. Through our extensive network, we reach every corner of the globe to deliver the finest produce from our farms with utmost care.",
     icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741506719/1202_rpepjv.jpg",
+    audio: "https://vocaroo.com/embed/1fSF1rPnbdQR?autoplay=0",
+  },
+  {
+    id: "5",
+    title: "Commitment to Quality and Sustainability",
+    description:
+      "We are committed to quality and sustainability at every step of the production chain. From land care to packaging and shipping, we ensure that every process is carried out responsibly and sustainably. This commitment not only guarantees high-quality products but also contributes to building a more sustainable future for generations to come.",
+    icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1742468434/greenPhoenix/2151262697_bsupkn.jpg",
     audio: "https://vocaroo.com/embed/1fSF1rPnbdQR?autoplay=0",
   },
 ];

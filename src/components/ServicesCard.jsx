@@ -33,11 +33,11 @@ function ServicesCard({ item }) {
     <>
       <div
         ref={elementRef}
-        className={`flex rounded-lg shadow-2xl  max-md:flex-col-reverse overflow-hidden z-10 transition-opacity duration-1000 ${
+        className={`flex rounded-lg shadow-2xl  max-xl:flex-col-reverse overflow-hidden z-10 transition-opacity duration-1000 ${
           !visibleEElement ? "opacity-0" : "opacity-100"
         }`}
       >
-        <div className="flex-1 bg-white p-6 border-r-[3px] border-solid border-lime-200">
+        <div className="flex-2 bg-white p-6 border-r-[3px] border-solid border-lime-200">
           <h1 className="capitalize text-2xl text-mainColor font-WorkSansBold">
             {item.title}
           </h1>
