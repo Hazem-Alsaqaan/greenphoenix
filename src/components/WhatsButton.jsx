@@ -1,18 +1,15 @@
 import React from "react";
-
+import emailIcon from "../assets/pictures/email_16701853.png";
 function WhatsButton() {
   return (
     <>
       <a
-        className="fixed bottom-5 left-5 w-12 h-12 animate-pulse z-40"
+        className="fixed bottom-5 left-5 w-14 h-14 animate-pulse z-40"
         href="mailto:info@greenphoenix.com"
         target="_blank"
         title="send mail"
       >
-        <img
-          src={`https://res.cloudinary.com/dkhu7rt8n/image/upload/v1729169672/hooktech/mail_2772369_rwlv9j.png`}
-          alt=""
-        />
+        <img src={emailIcon} alt="" />
       </a>
       {/* <a
         className="fixed bottom-5 left-5 w-8 h-8"
