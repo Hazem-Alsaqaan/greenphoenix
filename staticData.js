@@ -11,7 +11,7 @@ export const servicesData = [
     id: "2",
     title: "Excellence in Production: From Seed to Harvest",
     description:
-      "We demonstrate our dedication to excellence through every piece of fruit we produce. We utilize advanced agricultural practices and the latest technologies to ensure that each crop offers maximum flavor, nutritional value, and visual appeal. From carefully selecting seedlings to precise harvesting techniques, our focus on production quality remains unwavering, making every piece of our fruits and vegetables a testament to pride and professionalism.",
+      "Our commitment to excellence shines through in every fruit we grow. By employing cutting-edge agricultural methods and innovative technologies, we ensure that each harvest delivers exceptional flavor, rich nutritional content, and stunning visual appeal. From the meticulous selection of seedlings to the precision of our harvesting processes, our unwavering dedication to quality ensures that every piece of fruit and vegetable we produce reflects our pride and professionalism.",
     icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741505599/greenPhoenix/production_xzpzxg.jpg",
     audio: "https://vocaroo.com/embed/181JLQTJg3PW?autoplay=0",
   },
@@ -27,7 +27,7 @@ export const servicesData = [
     id: "4",
     title: "Efficient Shipping: From Farm to Table",
     description:
-      "From our farms to your table, we ensure that our shipping process is meticulously organized to meet the highest standards of efficiency. We recognize the importance of time and reliability in global food distribution, and our advanced logistical solutions ensure that your products arrive on time and in optimal condition. Through our extensive network, we reach every corner of the globe to deliver the finest produce from our farms with utmost care.",
+      "From our farms straight to your table, we take great care to ensure our shipping process is meticulously planned and executed to meet the highest efficiency standards. Understanding the critical role of timeliness and reliability in global food distribution, we leverage advanced logistical solutions to guarantee that your products arrive promptly and in perfect condition. With our expansive network, we deliver the freshest, finest produce from our farms to every corner of the world, all while maintaining the utmost care and attention to detail.",
     icon: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741506719/1202_rpepjv.jpg",
     audio: "https://vocaroo.com/embed/1fSF1rPnbdQR?autoplay=0",
   },
