@@ -37,14 +37,19 @@ function ServicesCard({ item }) {
           !visibleEElement ? "opacity-0" : "opacity-100"
         }`}
       >
-        <div className="flex-2 bg-white p-6 border-r-[3px] border-solid border-lime-200">
+        <div className="flex-4 bg-white p-6 border-r-[3px] border-solid border-lime-200">
           <h1 className="capitalize text-2xl text-mainColor font-WorkSansBold">
             {item.title}
           </h1>
           <p className="py-4 text-black">{item.description}</p>
         </div>
-        <div className="flex-1">
-          <img src={item.icon} alt="services_pic" className="w-full h-full" />
+        <div className="flex-1 p-10 relative flex items-center justify-center">
+          <img
+            src={item.icon}
+            alt="services_pic"
+            className="absolute top-10 w-72 h-44 z-20 border-y-8 border-white border-solid max-[390px]:w-52 max-[390px]:h-38 "
+          />
+          <div className=" bg-mainColor w-72 h-44 skew-y-12  max-[390px]:w-52 max-[390px]:h-38 rounded"></div>
         </div>
       </div>
     </>
