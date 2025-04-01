@@ -1,8 +1,12 @@
 import React from "react";
 import logoPic from "../../assets/pictures/logoPic.png";
+import { Link } from "react-router-dom";
 function Logo() {
   return (
-    <div className="flex flex-col items-center justify-center  rounded  w-fit p-1">
+    <Link
+      to={"/"}
+      className="flex flex-col items-center justify-center  rounded  w-fit p-1"
+    >
       <div>
         <img src={logoPic} alt="logoPic" className="w-10 h-10" />
       </div>
@@ -12,7 +16,7 @@ function Logo() {
       <p className="capitalize text-mainColor font-WorkSansThin text-[7px]">
         Agriculture products
       </p>
-    </div>
+    </Link>
   );
 }
 

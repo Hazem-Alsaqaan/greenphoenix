@@ -5,7 +5,7 @@ function WhatsButton() {
     <>
       <a
         className="fixed bottom-5 left-5 w-14 h-14 animate-pulse z-40"
-        href="mailto:info@greenphoenix.com"
+        href="mailto:info@greenphoenixeg.com"
         target="_blank"
         title="send mail"
       >

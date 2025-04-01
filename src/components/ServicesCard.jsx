@@ -47,7 +47,7 @@ function ServicesCard({ item }) {
           <img
             src={item.icon}
             alt="services_pic"
-            className="absolute top-10 w-72 h-44 z-20 border-y-8 border-white border-solid max-[390px]:w-52 max-[390px]:h-38 "
+            className="absolute top-10 w-72 h-44 z-20 border-y-[6px] border-white border-solid hover:border-y-[12px] duration-150 max-[390px]:w-52 max-[390px]:h-38 "
           />
           <div className=" bg-mainColor w-72 h-44 skew-y-12  max-[390px]:w-52 max-[390px]:h-38 rounded"></div>
         </div>
