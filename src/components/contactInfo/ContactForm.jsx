@@ -2,7 +2,7 @@ import React from "react";
 
 function ContactForm() {
   return (
-    <div className={`bg-white p-16 rounded-2xl shadow-2xl`}>
+    <div className={`bg-white p-16 rounded-2xl shadow-2xl max-md:px-6`}>
       <h1 className=" font-PoppinsBlack text-mainColor py-4 text-2xl max-sm:text-xl">
         Get in touch with us!
       </h1>
