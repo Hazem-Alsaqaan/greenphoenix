@@ -42,9 +42,29 @@ export const servicesData = [
 ];
 export const sliderImages = [
   {
-    id: 1,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512983/IMG-20250307-WA0040_stoaxe.jpg",
+    id: 18,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512972/IMG-20250307-WA0021_bjaxef.jpg",
   },
+  {
+    id: 19,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512968/IMG-20250307-WA0007_cotj86.jpg",
+  },
+  {
+    id: 20,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512977/IMG-20250307-WA0031_sl2gzz.jpg",
+  },
+  {
+    id: 21,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0036_ciqc1i.jpg",
+  },
+  {
+    id: 22,
+    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512976/IMG-20250307-WA0030_qdpqso.jpg",
+  },
+  // {
+  //   id: 1,
+  //   url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512983/IMG-20250307-WA0040_stoaxe.jpg",
+  // },
   {
     id: 2,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512983/IMG-20250307-WA0042_acmjle.jpg",
@@ -53,10 +73,10 @@ export const sliderImages = [
     id: 3,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512982/IMG-20250307-WA0039_hopxcp.jpg",
   },
-  {
-    id: 4,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512980/IMG-20250307-WA0032_zhlerg.jpg",
-  },
+  // {
+  //   id: 4,
+  //   url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512980/IMG-20250307-WA0032_zhlerg.jpg",
+  // },
   {
     id: 5,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512980/IMG-20250307-WA0037_e33q8h.jpg",
@@ -65,14 +85,14 @@ export const sliderImages = [
     id: 6,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0038_d1exdq.jpg",
   },
-  {
-    id: 7,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0034_fxftp7.jpg",
-  },
-  {
-    id: 8,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0035_jubf4h.jpg",
-  },
+  // {
+  //   id: 7,
+  //   url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0034_fxftp7.jpg",
+  // },
+  // {
+  //   id: 8,
+  //   url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0035_jubf4h.jpg",
+  // },
   {
     id: 9,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512976/IMG-20250307-WA0028_aftffs.jpg",
@@ -108,26 +128,6 @@ export const sliderImages = [
   {
     id: 17,
     url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512969/IMG-20250307-WA0011_yoqymj.jpg",
-  },
-  {
-    id: 18,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512972/IMG-20250307-WA0021_bjaxef.jpg",
-  },
-  {
-    id: 19,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512968/IMG-20250307-WA0007_cotj86.jpg",
-  },
-  {
-    id: 20,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512977/IMG-20250307-WA0031_sl2gzz.jpg",
-  },
-  {
-    id: 21,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512979/IMG-20250307-WA0036_ciqc1i.jpg",
-  },
-  {
-    id: 22,
-    url: "https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741512976/IMG-20250307-WA0030_qdpqso.jpg",
   },
 ];
 export const frishVegetablesData = [

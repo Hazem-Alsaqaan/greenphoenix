@@ -11,7 +11,7 @@ function ContactInfo() {
       <div className="pt-5 flex flex-col gap-2">
         <h6 className="text-white flex  gap-2 max-[420px]:text-sm">
           <IoLocationOutline />
-          116 Hurrya road, Al- Watanya tower, Shallalat, Alexandria, Egypt.
+          Al-Nasr road, Damanhour, Beheira , Egypt.
         </h6>
         <h6 className="text-white flex  gap-2 max-[420px]:text-sm">
           <FiPhoneCall />
@@ -20,12 +20,12 @@ function ContactInfo() {
         <h6>
           <a
             className="text-white flex  gap-2 max-[420px]:text-sm"
-            href="mailto:info@greenphoenix.com"
+            href="mailto:info@greenphoenixeg.com"
             target="_blank"
             title="send mail"
           >
             <GrMailOption />
-            email: info@greenphoenix.com
+            email: info@greenphoenixeg.com
           </a>
         </h6>
         <h6>
