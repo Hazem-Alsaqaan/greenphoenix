@@ -47,9 +47,7 @@ function ProductBox({ item }) {
         to={`/products/${item.id}`}
         className=" capitalize text-white bg-mainColor px-2 py-1 rounded-2xl font-PoppinsBold flex items-center justify-center gap-2 hover:text-lime-800 duration-150"
       >
-        <FaLongArrowAltRight className=" animate-spin" />
         <span>more details</span>
-        <FaLongArrowAltLeft className=" animate-spin" />
       </Link>
     </div>
   );

@@ -31,9 +31,13 @@ function DetailsProductPage() {
   }
   return (
     <div className="min-h-screen px-24 py-44 bg-white max-md:px-6 relative">
-      {/* <h1 className="flex justify-center font-PoppinsBlack text-xl py-4">
-        Details
-      </h1> */}
+      {singleItem.summary ? (
+        <p className="flex justify-center font-PoppinsRegular text-lime-800 py-4">
+          {singleItem.summary}
+        </p>
+      ) : (
+        ""
+      )}
       <div>
         <div className="flex items-center max-sm:flex-col">
           <div className="flex-1">

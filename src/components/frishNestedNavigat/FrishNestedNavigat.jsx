@@ -14,7 +14,7 @@ function FrishNestedNavigat() {
               src={`https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741762140/greenPhoenix/pngwing.com_10_hvic2s.png`}
               alt=""
             />
-            <p>Frish fruits</p>
+            <p>Fresh fruits</p>
           </NavLink>
         </li>
         <li>
@@ -26,7 +26,7 @@ function FrishNestedNavigat() {
               src={`https://res.cloudinary.com/dkhu7rt8n/image/upload/v1741762140/greenPhoenix/pngwing.com_9_ttcu5b.png`}
               alt=""
             />
-            <p>Frish vegetables</p>
+            <p>Fresh vegetables</p>
           </NavLink>
         </li>
       </ul>

@@ -13,9 +13,13 @@ function ContactInfo() {
           <IoLocationOutline />
           Al-Nasr road, Damanhour, Beheira , Egypt.
         </h6>
-        <h6 className="text-white flex  gap-2 max-[420px]:text-sm">
+        <h6 className="text-white flex  gap-2 max-[420px]:text-sm text-nowrap">
           <FiPhoneCall />
-          Call: + 203 4878391 // + 203 4878385
+          <span className="flex items-center justify-center max-md:flex-col">
+            <span className="text-nowrap">+ 20 45 3202213</span>
+            <span className="text-nowrap px-2">{`// + 20 45 3202207`}</span>
+            <span className="text-nowrap">{`// + 20 45 3202035`}</span>
+          </span>
         </h6>
         <h6>
           <a

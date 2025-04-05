@@ -32,7 +32,7 @@ function ProductsPage() {
           className="w-64 p-3 m-3 flex justify-center items-center rounded-full overflow-hidden bg-green-950  text-3xl cursor-pointer hover:bg-green-900  duration-150"
         >
           <p className="text-xl font-PoppinsRegular text-mainColor max-sm:text-base uppercase">
-            frish
+            fresh
           </p>
         </Link>
       </div>
