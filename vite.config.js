@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import tailwindcss from "@tailwindcss/vite";
 import SitemapPlugin from "vite-plugin-sitemap";
 import viteCompression from "vite-plugin-compression";
+
 // Dynamic routes for agricultural export products
 const dynamicRoutes = [
   "/products/products/frish",
@@ -18,6 +19,7 @@ export default defineConfig({
     tailwindcss(),
     react(),
     SitemapPlugin({
+      hostname: "https://www.greenphoenixeg.com",
       baseUrl: "https://www.greenphoenixeg.com",
       routes: [
         "/",
