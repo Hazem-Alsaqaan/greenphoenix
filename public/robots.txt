@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /dashboard/
+
+Sitemap: https://www.greenphoenixeg.com/sitemap.xml
+Sitemap: https://www.greenphoenixeg.com/sitemap-news.xml
+
+# إعدادات خاصة بمحركات البحث
+User-agent: Googlebot
+Allow: /products/
+Allow: /vegetables/
+Allow: /fruits/
+Allow: /services/
+Allow: /contact-us/
+Allow: /about/
+Crawl-delay: 2
+
+User-agent: Bingbot
+Allow: /export/
+Allow: /certifications/
+Crawl-delay: 3
+
+# إعدادات خاصة بملفات الوسائط
+User-agent: Googlebot-Image
+Allow: /assets/images/
+Disallow: /assets/temp/
+
+# إعدادات خاصة بالبحث عن الصور
+User-agent: *
+Allow: /*.jpg$
+Allow: /*.webp$
+Allow: /*.png$

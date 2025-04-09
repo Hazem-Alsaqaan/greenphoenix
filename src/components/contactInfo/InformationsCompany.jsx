@@ -10,9 +10,17 @@ function InformationsCompany() {
         <li className="text-black flex items-center p-2 gap-2 max-[420px]:text-sm">
           <FiPhoneCall className=" text-mainColor text-3xl" />
           <span className="flex flex-col items-center justify-center">
-            <span className="text-nowrap">+ 20 45 3202213</span>{" "}
-            <span className="text-nowrap px-2">// + 20 45 3202207</span>{" "}
-            <span className="text-nowrap">// + 20 45 3202035</span>
+            <a href={`tel:+ 20 45 3202213`} className="text-nowrap">
+              + 20 45 3202213
+            </a>
+            <a
+              href={`tel:+ 20 45 3202207`}
+              className="text-nowrap px-2"
+            >{` + 20 45 3202207`}</a>
+            <a
+              href={`tel:+ 20 45 3202035`}
+              className="text-nowrap"
+            >{` + 20 45 3202035`}</a>
           </span>
         </li>
         <li>
@@ -37,6 +45,9 @@ function InformationsCompany() {
             +201097070703
           </a>
         </li>
+        {/* <li className="text-black flex items-center p-2 gap-2 max-[420px]:text-sm">
+          ZIP-Code:22511
+        </li> */}
       </ul>
     </div>
   );

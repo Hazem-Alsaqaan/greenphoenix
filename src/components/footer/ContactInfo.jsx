@@ -16,9 +16,17 @@ function ContactInfo() {
         <h6 className="text-white flex  gap-2 max-[420px]:text-sm text-nowrap">
           <FiPhoneCall />
           <span className="flex items-center justify-center max-md:flex-col">
-            <span className="text-nowrap">+ 20 45 3202213</span>
-            <span className="text-nowrap px-2">{`// + 20 45 3202207`}</span>
-            <span className="text-nowrap">{`// + 20 45 3202035`}</span>
+            <a href={`tel:+ 20 45 3202213`} className="text-nowrap">
+              + 20 45 3202213
+            </a>
+            <a
+              href={`tel:+ 20 45 3202207`}
+              className="text-nowrap px-2"
+            >{` + 20 45 3202207`}</a>
+            <a
+              href={`tel:+ 20 45 3202035`}
+              className="text-nowrap"
+            >{` + 20 45 3202035`}</a>
           </span>
         </h6>
         <h6>
@@ -43,6 +51,9 @@ function ContactInfo() {
             What'sApp: +201097070703
           </a>
         </h6>
+        <p className="text-white flex  gap-2 max-[420px]:text-sm">
+          ZIP-Code:22511
+        </p>
       </div>
     </div>
   );
